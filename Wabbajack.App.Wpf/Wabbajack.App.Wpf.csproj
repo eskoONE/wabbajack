@@ -59,7 +59,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="DynamicData" Version="7.9.14" />
+    <PackageReference Include="DynamicData" Version="9.1.2" />
     <PackageReference Include="Extended.Wpf.Toolkit" Version="4.4.0">
       <NoWarn>NU1701</NoWarn>
     </PackageReference>
@@ -80,11 +80,11 @@
     <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1293.44" />
     <PackageReference Include="NLog.Extensions.Logging" Version="5.0.2" />
     <PackageReference Include="PInvoke.User32" Version="0.7.124" />
-    <PackageReference Include="ReactiveUI" Version="18.3.1" />
+    <PackageReference Include="ReactiveUI" Version="20.2.45" />
     <PackageReference Include="ReactiveUI.Fody" Version="18.3.1" />
     <PackageReference Include="ReactiveUI.WPF" Version="18.3.1" />
     <PackageReference Include="Silk.NET.DXGI" Version="2.16.0" />
-    <PackageReference Include="System.Reactive" Version="5.0.0" />
+    <PackageReference Include="System.Reactive" Version="6.0.1" />
     <PackageReference Include="WebView2.Runtime.AutoInstaller" Version="1.0.0" />
     <PackageReference Include="WPFThemes.DarkBlend" Version="1.0.8" />
   </ItemGroup>
